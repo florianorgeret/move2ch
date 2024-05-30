@@ -15,3 +15,5 @@ Suggests:
     knitr,
     rmarkdown
 VignetteBuilder: knitr
+URL: https://github.com/steffenoppel/move2ch
+BugReports: https://github.com/steffenoppel/move2ch/issues
